@@ -99,7 +99,7 @@ a:focus {
 }
 
 .colored-text {
-  color: #32c5d2;
+  color: rgb(126, 15, 15);
 }
 
 /* Headings */
@@ -2009,7 +2009,7 @@ h1.typed-text {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background-color: #32c5d2;
+  background-color: #00024d;
   color: #fff;
   font-size: 17px;
   -webkit-border-radius: 50%;
@@ -2091,7 +2091,7 @@ h1.typed-text {
 }
 
 .blue-bg {
-  background-color: #32c5d2;
+  background-color: #690000;
   padding-top: 70px;
   padding-bottom: 40px;
 }
@@ -5203,7 +5203,7 @@ body.invoice {
 }
 
 .fun-facts-bg {
-  background: #32c5d2;
+  background: #00024d;
 }
 
 /***theme features box***/
