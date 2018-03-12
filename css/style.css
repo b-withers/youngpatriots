@@ -2090,6 +2090,13 @@ h1.typed-text {
   margin-bottom: 5px;
 }
 
+
+.mainyp{
+  font-family: 'Herr Von Muellerhoff', cursive;
+
+}
+
+
 .blue-bg {
   background-color: #690000;
   padding-top: 70px;
@@ -5515,7 +5522,7 @@ body.invoice {
 
 .portfolio-cube .cbp-l-caption-buttonLeft, .portfolio-cube .cbp-l-caption-buttonRight {
   background-color: #32c5d2;
-  text-transform: capitalize;
+  
   font-family: "Open Sans", sans-serif;
 }
 
@@ -5566,7 +5573,7 @@ body.invoice {
 
 .cube-masonry .cbp-l-caption-title {
   font-family: "Open Sans", sans-serif;
-  text-transform: uppercase;
+ 
 }
 
 .cube-masonry .cbp-l-caption-desc {
