@@ -12,6 +12,12 @@
     width:100%;
     position: relative;
 }
+
+.medium_bg_darkblue{
+    margin-top: 2%;
+
+}
+
 .rev-text-center{
     text-align: center;
     font-size: 24px;
@@ -38,6 +44,8 @@
 .tp-caption.modern_big_redbg{
       font-family: 'Open Sans', sans-serif !important; 
       font-weight: 300;
+      
+      margin-top: 2%;
 }
 .slider-text-title{
     font-size: 50px;
@@ -46,7 +54,7 @@
 .uppercase-title{
     font-weight: 700;
     font-size: 55px;
-    color:#fff;
+    color: rgb(255, 204, 62);
     text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
 }
@@ -159,14 +167,14 @@ font-family: 'Open Sans', sans-serif;
 
 
 .text-center-top{
-       color:#fff;
+       color: rgb(255, 204, 62);
     font-weight: 700;
     text-transform: uppercase;
     font-size: 60px;
     font-family: 'Raleway', sans-serif;
 }
 .text-center-btm{
-    color:#fff;
+    color: rgb(255, 204, 62);
     font-size: 20px;
     font-weight: 300;
     line-height:34px !important;
@@ -174,11 +182,13 @@ font-family: 'Open Sans', sans-serif;
 
 }
 .left-tile-text{
-    color: white;
-    font-size: 65px;
-    
+    color: #daa520 !important;
+    font-size: 80px;
+    text-shadow: -2px -2px 2px rgb(0, 0, 0), 1px 1px 1px #000;
+	opacity: 0.3; 
+    position: absolute;
 }
-
+    
 
 /****vertical slider****/
 .vertical-title{
