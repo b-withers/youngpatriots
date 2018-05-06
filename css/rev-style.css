@@ -7,7 +7,6 @@
 */
 
 @import 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700';
-@import 'https://fonts.googleapis.com/css?family=La+Belle+Aurore';
 
 @font-face {
     font-family: "P22";
@@ -196,7 +195,7 @@ font-family: 'Open Sans', sans-serif;
 }
 .left-tile-text{
     color: #daa520 !important;
-    font-size: 95px;
+    font-size: 100px;
     text-shadow: -2px -2px 2px rgb(0, 0, 0), 1px 1px 1px #000;
 	opacity: 0.3; 
     position: absolute;

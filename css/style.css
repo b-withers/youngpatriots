@@ -193,11 +193,11 @@ p {
 }
 
 p.sub-text {
-  font-style: normal;
-  font-size: 16px;
+  font-weight: bold;
+  font-size: 18px;
   line-height: 29px;
   font-weight: 300;
-  color: #555;
+  color: rgb(61, 61, 61);
 }
 
 p.lead {
