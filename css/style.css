@@ -2010,6 +2010,20 @@ h1.typed-text {
   height: 50px;
   line-height: 50px;
   text-align: center;
+  background-color: #00024d;
+  color: #fff;
+  font-size: 17px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.services-box-icon1 i {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
   background-color: #690000;
   color: #fff;
   font-size: 17px;
